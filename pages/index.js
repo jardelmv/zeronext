@@ -13,7 +13,8 @@ export default function Home() {
         <h3 >
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h3>
-        <img src="/im01_36x36.jpg" alt="im01" style={{height:'80vh', width:'auto'}} />
+        {/* <img src="/im01_36x36.jpg" alt="im01" style={{height:'80vh', width:'auto'}} /> */}
+        <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
 
         <p className={styles.description}>
           Get started by editing{' '}
