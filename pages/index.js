@@ -9,11 +9,11 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>
-        <h1 className={styles.title}>
+      <main >
+        <h3 >
           Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
-        <img src="/im01.jpg" alt="im01" style={{height:'80vh', width:'auto'}} />
+        </h3>
+        <img src="/im01_36x36.jpg" alt="im01" style={{height:'80vh', width:'auto'}} />
 
         <p className={styles.description}>
           Get started by editing{' '}
