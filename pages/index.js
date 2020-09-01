@@ -13,6 +13,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
+        <img src="/im01.jpg" alt="im01" style={{height:'80vh', width:'auto'}} />
 
         <p className={styles.description}>
           Get started by editing{' '}
